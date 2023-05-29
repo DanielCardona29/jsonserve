@@ -6,10 +6,6 @@
                 {
                     "language": "N/A",
                     "value": "2022-12"
-                },
-                {
-                    "language": "N/A",
-                    "value": "2022-03"
                 }
             ]
         },
@@ -19,14 +15,6 @@
                 {
                     "language": "ENTIDAD 1",
                     "value": "BANCA TIPO 1"
-                },
-                {
-                    "language": "ENTIDAD 2",
-                    "value": "BANCA TIPO 2"
-                },
-                {
-                    "language": "N/A",
-                    "value": "BANCA TIPO 3"
                 }
             ]
         },
@@ -56,10 +44,6 @@
                 {
                     "language": "7403-RIE DISCIPLINAS",
                     "value": "6198-Z CC RISK DISCIPLINA"
-                },
-                {
-                    "language": "7202-FIN EXECUCION",
-                    "value": "6933-Z CC FINCIERA"
                 }
             ]
         },
