@@ -173,5 +173,66 @@
                 }
             ]
         }
-    ]
+    ],
+    "exaple-table":[
+    {
+        id: 'banca',
+        category: 'BANCA',
+        data: [
+            {
+                colId: 'nov21balance',
+                value: '$ 27.565.890'
+            }, 
+            {
+                colId: 'pptomesactual',
+                value: '$ 27.565.890'
+            }, 
+
+            {
+                colId: 'margenInteres',
+                value: '$ 27.565.890'
+            }
+        ]
+    },
+    {
+        id: 'cosa',
+        category: 'COSA',
+        data: [
+            {
+                colId: 'col8',
+                value: '$ 27.565.890'
+            }, 
+            {
+                colId: 'col4',
+                value: '$ 27.565.890'
+            }, 
+
+            {
+                colId: 'col2',
+                value: '$ 27.565.890'
+            }
+        ]
+    },
+
+    {
+      id: 'daniel',
+      category: 'Daniel Cardona Calderon',
+      data: [
+          {
+              colId: 'col1',
+              value: '$ 27.565.890'
+          }, 
+          {
+              colId: 'col11',
+              value: '$ 27.565.890'
+          }, 
+
+          {
+              colId: 'col9',
+              value: '$ 27.565.890'
+          }
+      ]
+  }
+]
+    
 }
